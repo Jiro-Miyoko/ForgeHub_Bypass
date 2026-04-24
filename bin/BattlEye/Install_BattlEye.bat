@@ -1,0 +1,3 @@
+@echo off
+echo Installing BattlEye...
+..\WatchDogsLegion_BE.exe 1 0

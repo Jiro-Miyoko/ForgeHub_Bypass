@@ -1,0 +1,7 @@
+Funciona con steam
+Funciona con exe
+
+Programas necesarios
+	Ubisoft Connect
+	DirectX
+	VC Redist

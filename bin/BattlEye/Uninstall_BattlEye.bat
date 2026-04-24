@@ -1,0 +1,3 @@
+@echo off
+echo Uninstalling BattlEye...
+..\WatchDogsLegion_BE.exe 4
